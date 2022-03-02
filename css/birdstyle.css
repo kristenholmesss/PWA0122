@@ -83,8 +83,5 @@ div#birdfacts{
 div#birfimg{
   width: 10rem;
   height: 10rem;
-  background-image: url(../imgs/CaliGull.png);
 
-  background-size: cover;
-  background-position: center;
 }
