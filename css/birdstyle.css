@@ -73,3 +73,18 @@ h1 {
   padding: 0.3rem 1rem;
   border-radius: 20px;
 }
+
+div#birdfacts{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+div#birfimg{
+  width: 10rem;
+  height: 10rem;
+  background-image: url(../imgs/CaliGull.png);
+
+  background-size: cover;
+  background-position: center;
+}
